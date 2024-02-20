@@ -2,7 +2,7 @@
 <h3 align="center">2023 San Jose State University, Data Science Graduate</h3>
 
 - 🔭 I’m currently researching on **Improving Retrieval Augmented Generation for Large Language Models**
-<img align="right" alt="Coding" width="350" src="JXA0.gif">
+<img align="right" alt="Coding" width="300" src="JXA0.gif">
 
 - 🌱 I’m currently learning **Fine tuning LLM to achieve predictable behavior response pattern with real-time data through RAG**
 
