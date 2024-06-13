@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yosha Mundhra</h1>
 <h3 align="center">2023 San Jose State University, Data Science Graduate</h3>
 
-- 🔭 I’m currently researching on **Large Language Models**
+- 🌱 I’m currently learning **Generative AI.**
 <img align="right" alt="Coding" width="300" src="JXA0.gif">
 
-- 🌱 I’m currently learning **Fine tuning LLM to achieve predictable behavior**
+- 🔭 I’m researching on **fine tuning Large Language Models to achieve task-specific response and reduce hallucinations.**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **AI/ML projects.**
 
-- 💬 Ask me about **Data Science, Large language models**
+- 💬 Ask me about **Data Science, Large language models.**
 
 - 📫 How to reach me **mundhra.yosha09@gmail.com**
 
